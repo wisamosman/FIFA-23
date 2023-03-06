@@ -2,8 +2,8 @@
     background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/shared-assets/images/2022/11/f23-wc-buy-heromed-7x2-xl.jpg.adapt.crop5x2.1455w.jpg);
 }
 .navbar{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
     padding-top: 25px;
     border-bottom: 2px solid black;
     padding-bottom: 15px;
@@ -12,7 +12,15 @@
     margin-left: 70px;
 }
 .nav-link{
-    font-size: 22px;
+    font-size: 23px;
     font-weight: 800;
     color: black;
+}
+.btn{
+    padding: 7px 25px;
+    
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #FF5E0C;
 }

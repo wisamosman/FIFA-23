@@ -55,7 +55,7 @@ padding-top: 25px;
 .w3{
     color: white;
     font-weight: 800;
-    font-size: 35px;
+    font-size: 50px;
 }
 .w4{
     width: 1074px;
@@ -65,6 +65,11 @@ padding-top: 25px;
 }
 .w5{
     padding-top: 90px;
-    margin-left: 80px;
+    margin-left: 90px;
 
+}
+.w7{
+    color:white;
+    font-weight: 700;
+    font-size: 18px;
 }

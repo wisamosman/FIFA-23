@@ -100,3 +100,17 @@ padding-bottom: 22px;
     width: 540px;
     margin-left: 40px;
 }
+.r3{
+    color: black;
+    font-weight: 900;
+}
+.r5{
+    text-decoration: none;
+    padding: 15px 30px;
+    color: black;
+    background-color: #D9D5D2;
+    border: 2px solid black;
+}
+.r6{
+    padding-top: 50px;
+}

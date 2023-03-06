@@ -1,6 +1,8 @@
 .q1{
     background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/shared-assets/images/2022/11/f23-wc-buy-heromed-7x2-xl.jpg.adapt.crop5x2.1455w.jpg);
+padding-top: 25px;
 }
+
 .navbar{
     padding-left: 70px;
     padding-right: 70px;

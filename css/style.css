@@ -26,3 +26,19 @@ padding-top: 25px;
     font-weight: 800;
     background-color: #FF5E0C;
 }
+.q5{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 25px;
+}
+.q4{
+    color: #555658;
+    font-weight: 600;
+}
+.q3{
+    color: black;
+    font-weight: 800;
+    font-size: 35px;
+}

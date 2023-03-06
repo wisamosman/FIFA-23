@@ -73,3 +73,13 @@ padding-top: 25px;
     font-weight: 700;
     font-size: 18px;
 }
+.w9{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    border: 2px solid white;
+}
+.w8{
+    margin-top: 50px;
+}

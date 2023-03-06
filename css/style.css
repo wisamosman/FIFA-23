@@ -28,17 +28,21 @@ padding-top: 25px;
 }
 .q5{
     color: white;
-    font-weight: 600;
+    font-weight: 800;
     text-decoration: none;
     background-color: black;
-    padding: 10px 25px;
+    padding: 10px 35px;
 }
 .q4{
     color: #555658;
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 15px;
 }
 .q3{
     color: black;
     font-weight: 800;
-    font-size: 35px;
+    font-size: 48px;
+}
+.q6{
+    margin-top: 50px;
 }

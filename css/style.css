@@ -46,3 +46,25 @@ padding-top: 25px;
 .q6{
     margin-top: 50px;
 }
+.w1{
+    background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/images/2022/07/f23-fut-heroes-heromed-bg-7x2-xl.jpg.adapt.crop7x2.1920w.jpg);
+}
+.w2{
+    background-image: url(https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/world-cup/images/2022/11/fut23-hero-med-heroes-mg-7x2-xl.png.adapt.crop5x2.1455w.png);
+}
+.w3{
+    color: white;
+    font-weight: 800;
+    font-size: 35px;
+}
+.w4{
+    width: 1074px;
+    padding-top: 45px;
+    margin-left: 110px;
+
+}
+.w5{
+    padding-top: 90px;
+    margin-left: 80px;
+
+}

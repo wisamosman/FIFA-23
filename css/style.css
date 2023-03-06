@@ -8,3 +8,11 @@
     border-bottom: 2px solid black;
     padding-bottom: 15px;
 }
+.navbar-nav{
+    margin-left: 70px;
+}
+.nav-link{
+    font-size: 22px;
+    font-weight: 800;
+    color: black;
+}
